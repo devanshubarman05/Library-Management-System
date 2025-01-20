@@ -44,8 +44,9 @@ function Freebook() {
  return ( <>
  <div className="max-w-screen-2xl container mx-auto md:px-20 px-4">
   <div>
-  <h1 className="font-semibold text-xl pb-2" >Free Offered Courses</h1>
-  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum doloribus, voluptate nemo officia qui id neque aperiam dignissimos quo eius modi laboriosam sequi consequuntur pariatur. Eum delectus maiores exercitationem ut!</p>
+  <h1 className="font-semibold text-xl pb-2" >"Must-Reads: Our Top Book Recommendations"
+  </h1>
+  <p></p>
   </div>
  
  <div>
