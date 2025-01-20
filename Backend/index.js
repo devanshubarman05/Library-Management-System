@@ -8,7 +8,7 @@ dotenv.config();
 const PORT = process.env.PORT || 4000;
 
 app.get('/', (req, res) => {
-  res.send('BookStoreAPP!')
+  res.send('Library Management!')
 })
 
 app.listen(PORT, () => {
